@@ -1,0 +1,5 @@
+name = Contact Alter
+description = Alter contact form
+package = Micah's Modules
+core = 7.x
+files[] = alter_contact.module
